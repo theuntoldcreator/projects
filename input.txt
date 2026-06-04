@@ -1,1 +1,0 @@
-user enters an input and wait to execute from terminal
